@@ -65,6 +65,13 @@ Note that as of writing, Angular 2.x has only existed since 2016 (7 years) and R
 ![](/img/description_must_know_library_more_than_framework.png)
 
 Here they want you to have more experience with an Angular library than with Angular itself.
+<br/><br/>
+
+
+![](/img/description_mango_db.png)
+
+Ever worked with MangoDB?  It's a delicious and juicy database, but watch out for the huge seed in the middle!
+
 
 ## Questions
 
