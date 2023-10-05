@@ -75,7 +75,12 @@ Here they want you to have more experience with an Angular library than with Ang
 ![](/img/description_mango_db.png)
 
 Ever worked with MangoDB?  It's a delicious and juicy database, but watch out for the huge seed in the middle!
+<br/><br/>
 
+![](/img/description_drawn_out_interview_process.png)
+
+Perhaps we have a different definition of what a "lengthy" interview is. This adds up to at least 4 hours plus a week of waiting.
+<br/><br/>
 
 ## Questions
 
