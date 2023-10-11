@@ -79,7 +79,12 @@ Ever worked with MangoDB?  It's a delicious and juicy database, but watch out fo
 
 ![](/img/description_drawn_out_interview_process.png)
 
-Perhaps we have a different definition of what a "lengthy" interview is. This adds up to at least 4 hours plus a week of waiting.
+Perhaps we have a different definition of what a "drawn-out interview process" is. This adds up to at least 4 hours plus a week of waiting.
+<br/><br/>
+
+![](/img/description_9_hours_of_interviews.png)
+
+This company wants 9 hours of my time, more than an entire work day, before they even consider giving a job offer!
 <br/><br/>
 
 ## Questions
