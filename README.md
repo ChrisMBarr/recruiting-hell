@@ -87,6 +87,11 @@ Perhaps we have a different definition of what a "drawn-out interview process" i
 This company wants 9 hours of my time, more than an entire work day, before they even consider giving a job offer!
 <br/><br/>
 
+![](/img/description_no_pay_range.png)
+
+Wow, what a tempting offer!
+<br/><br/>
+
 ## Questions
 
 ![](/img/question_area_code_north_korea.png)
