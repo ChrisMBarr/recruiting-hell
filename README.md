@@ -92,6 +92,11 @@ This company wants 9 hours of my time, more than an entire work day, before they
 Wow, what a tempting offer!
 <br/><br/>
 
+![](/img/description_country_code.gif)
+
+Good luck finding your country code prefix in here
+<br/><br/>
+
 ## Questions
 
 ![](/img/question_area_code_north_korea.png)
