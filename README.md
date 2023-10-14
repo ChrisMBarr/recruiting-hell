@@ -8,6 +8,7 @@ I do want to clarify that not every recruiter, job application, or assessment is
   - [Recruiters](#recruiters)
   - [Job Descriptions](#job-descriptions)
   - [Questions](#questions)
+  - [Bad Resume Autofill](#bad-resume-autofill)
   - [Tests & Assessments](#tests--assessments)
 
 
@@ -99,18 +100,6 @@ Good luck finding your country code prefix in here
 
 ## Questions
 
-![](/img/question_area_code_north_korea.png)
-
-My phone number has an 850 area code, and was auto-filled here. Since the "+1" country code was not autofilled it assumed the first digit must be the country code.
-<br/><br/>
-
-
-![](/img/question_bad_resume_autofill_name.png)
-
-Another autofill adventure. Yep, that's me: Charlotte North _(Carolina)_
-<br/><br/>
-
-
 ![](/img/question_coldfusion.png)
 
 This is a legit requirement, but I'm amazed that there is anyone out there still doing ColdFusion development!
@@ -169,6 +158,27 @@ Optional is actually required! Please type a word to prove you read this
 
 Are you sure you know how much you'd like to make?
 <br/><br/>
+
+
+# Bad Resume Autofill
+When you upload your resume file the site tries to parse out the information, which almost never works.
+
+![](/img/autofill_area_code_north_korea.png)
+
+My phone number has an 850 area code, and was auto-filled here. Since the "+1" country code was not autofilled it assumed the first digit must be the country code. 8 is the country code for North Korea!
+<br/><br/>
+
+
+![](/img/autofill_name.png) ![](/img/autofill_name2.png)
+
+Yep, that's me: Charlotte North _(Carolina)_ - this happened more than once!
+<br/><br/>
+
+![](/img/autofill_school.png)
+
+`export default diploma`
+<br/><br/>
+
 
 
 ## Tests & Assessments
