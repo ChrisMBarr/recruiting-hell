@@ -46,6 +46,12 @@ I have absolutely no idea what is meant by this line. If you have individual yea
 <br/><br/>
 
 
+![](/img/recruiter_hello_hybrid.png)
+
+Is this an insult?
+<br/><br/>
+
+
 ## Job Descriptions
 
 ![](/img/description_MAC_and_OS_and_serverside_css.png)
