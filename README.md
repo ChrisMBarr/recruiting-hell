@@ -40,6 +40,11 @@ As expected, this company did not contact me back.
 Once again I say, Linkedin is a very strange place. This person contacted me out of the blue and provided zero context. I did not message them back.
 <br/><br/>
 
+![](/img/recruiter_experience_10_times.png)
+
+I have absolutely no idea what is meant by this line. If you have individual years of experience they don't count?
+<br/><br/>
+
 
 ## Job Descriptions
 
