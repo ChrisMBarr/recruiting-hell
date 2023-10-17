@@ -237,3 +237,9 @@ Emotion detection. Now this is just silly. I assume this is to weed out the psyc
 ![](/img/test_happiness.png)
 
 I just feel bad for the lady who had to pose for this stock photo
+<br/><br/>
+
+
+<img src="/img/test_me_not_me.png" width="350"/>
+This blue alien person cutting in line is **so** me! This will help the company know if I am good at programming Angular applications!
+<br/><br/>
