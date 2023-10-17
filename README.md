@@ -240,6 +240,7 @@ I just feel bad for the lady who had to pose for this stock photo
 <br/><br/>
 
 
-<img src="/img/test_me_not_me.png" width="350"/>
-This blue alien person cutting in line is **so** me! This will help the company know if I am good at programming Angular applications!
+![](/img/test_me_not_me.png)
+
+This blue person cutting in line is **so** me! This will help the company know if I am good at programming Angular applications! I've always wanted to visit Pandora...
 <br/><br/>
