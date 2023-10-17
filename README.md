@@ -170,6 +170,11 @@ Optional is actually required! Please type a word to prove you read this
 Are you sure you know how much you'd like to make?
 <br/><br/>
 
+![](/img/question_experience_yes.png)
+
+I guess this is the best way to describe my experience.
+<br/><br/>
+
 
 # Bad Resume Autofill
 When you upload your resume file the site tries to parse out the information, which almost never works.
