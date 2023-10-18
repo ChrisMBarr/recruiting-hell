@@ -249,3 +249,13 @@ I just feel bad for the lady who had to pose for this stock photo
 
 This blue person cutting in line is **so** me! This will help the company know if I am good at programming Angular applications! I've always wanted to visit Pandora...
 <br/><br/>
+
+![](/img/test_number_matching.png)
+
+Ah yes, let's look through a list of 100 side-by-side numbers and see if they are the same or not (there was another identical tests for strings of text too). Only a good developer will want to do this manually instead of creating a simple program to do this for them. I actually tried to open the dev console to ty this, but they blocked the UI out when focus left the window.
+<br/><br/>
+
+![](/img/test_bad_code_formatting.png)
+
+I'm glad the code in the answers here are well formatted and easy to read...
+<br/><br/>
