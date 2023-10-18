@@ -104,9 +104,9 @@ This company wants 9 hours of my time, more than an entire work day, before they
 Wow, what a tempting offer!
 <br/><br/>
 
-![](/img/description_country_code.gif)
+![](/img/description_200_linkedin_connections.png)
 
-Good luck finding your country code prefix in here
+This is on a job posting for a web developer. Only a good web developer will have 200+ completely inauthentic social media connections!
 <br/><br/>
 
 ## Questions
@@ -173,6 +173,11 @@ Are you sure you know how much you'd like to make?
 ![](/img/question_experience_yes.png)
 
 I guess this is the best way to describe my experience.
+<br/><br/>
+
+![](/img/question_country_code.gif)
+
+Good luck finding your country code prefix in here
 <br/><br/>
 
 
