@@ -190,6 +190,11 @@ What is a full stack engineer supposed to choose in this situation?
 I feel like only one of these messages was meant for me
 <br/><br/>
 
+![](/img/question_billion_years_of_javascript.png)
+
+Yes sir, that's correct, I have nearly 2 billion years of experience with JavaScript.  My previous position was on Pangaea and all my references are amoebas.
+<br/><br/>
+
 
 # Bad Resume Autofill
 When you upload your resume file the site tries to parse out the information, which almost never works.
