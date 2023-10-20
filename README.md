@@ -182,7 +182,12 @@ Good luck finding your country code prefix in here
 
 ![](/img/question_no_full_stack_for_you.png)
 
-I'm full stack, so what do I choose?
+What is a full stack engineer supposed to choose in this situation?
+<br/><br/>
+
+![](/img/question_successful_google_analytics.png)
+
+I feel like only one of these messages was meant for me
 <br/><br/>
 
 
