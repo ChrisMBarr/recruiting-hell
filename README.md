@@ -180,6 +180,11 @@ I guess this is the best way to describe my experience.
 Good luck finding your country code prefix in here
 <br/><br/>
 
+![](/img/question_no_full_stack_for_you.png)
+
+I'm full stack, so what do I choose?
+<br/><br/>
+
 
 # Bad Resume Autofill
 When you upload your resume file the site tries to parse out the information, which almost never works.
