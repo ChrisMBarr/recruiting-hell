@@ -52,6 +52,11 @@ Is this an insult?
 <br/><br/>
 
 
+![](/img/recruiter_crops.png)
+
+I would like to work as a farmer on a crop-to-crop basis please. The JavaScript harvest is coming up soon and the objects are starting to ripen.
+<br/><br/>
+
 ## Job Descriptions
 
 ![](/img/description_MAC_and_OS_and_serverside_css.png)
