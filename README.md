@@ -200,6 +200,11 @@ I feel like only one of these messages was meant for me
 Yes sir, that's correct, I have nearly 2 billion years of experience with JavaScript.  My previous position was on Pangaea and all my references are amoebas.
 <br/><br/>
 
+![](/img/question_upload_desktop_image.png)
+
+This is a pretty wild and irrelevant job application question. Why do you need to see my desktop?
+<br/><br/>
+
 
 # Bad Resume Autofill
 When you upload your resume file the site tries to parse out the information, which almost never works.
