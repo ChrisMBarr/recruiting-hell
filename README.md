@@ -202,7 +202,7 @@ Yes sir, that's correct, I have nearly 2 billion years of experience with JavaSc
 
 ![](/img/question_upload_desktop_image.png)
 
-This is a pretty wild and irrelevant job application question. Why do you need to see my desktop?
+This is a pretty wild and irrelevant job application question. Why do you need to see my desktop? I [posted this on mastodon](https://hachyderm.io/@FiniteLooper/111337064492245231) and it's got a lot of feedback!
 <br/><br/>
 
 
