@@ -205,6 +205,11 @@ Yes sir, that's correct, I have nearly 2 billion years of experience with JavaSc
 This is a pretty wild and irrelevant job application question. Why do you need to see my desktop? I [posted this on mastodon](https://hachyderm.io/@FiniteLooper/111337064492245231) and it's got a lot of feedback!
 <br/><br/>
 
+![](/img/question_octopus_story.png)
+
+Absolutely the most bizarre questions I have ever seen on anything related to a job!  This was for a programming-adjacent writing job related to AI, so not a strict web development position. But still! I [posted this on mastodon](https://hachyderm.io/@FiniteLooper/111392264117536853) and you can go there to see the story I wrote bout Sam's green octopus.
+<br/><br/>
+
 
 # Bad Resume Autofill
 When you upload your resume file the site tries to parse out the information, which almost never works.
